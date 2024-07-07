@@ -1,0 +1,7 @@
+# Ignore compressed files
+*.tgz
+*.rar
+*.zip
+*.gz
+*.bz2
+*.7z
