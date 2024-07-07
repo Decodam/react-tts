@@ -1,0 +1,20 @@
+{
+  "name": "react-tts",
+  "version": "1.0.0",
+  "description": "A React library for text-to-speech functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "speech",
+    "text-to-speech",
+    "tts"
+  ],
+  "author": "Arghya Mondal",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  }
+}
