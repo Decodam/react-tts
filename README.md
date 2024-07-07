@@ -1,4 +1,4 @@
-# react-tts
+# react-tts-voice
 
 A React library for text-to-speech functionality.
 
